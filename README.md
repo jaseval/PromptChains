@@ -274,46 +274,6 @@ BUSINESS=[business name], INDUSTRY=[industry], PRODUCT=[main product/service], T
 Write an executive summary (250-300 words) outlining BUSINESS's mission, PRODUCT, target market, unique value proposition, and high-level financial projections.~Provide a detailed description of PRODUCT, including its features, benefits, and how it solves customer problems. Explain its unique selling points and competitive advantages in INDUSTRY.~Conduct a market analysis: 1. Define the target market and customer segments 2. Analyze INDUSTRY trends and growth potential 3. Identify main competitors and their market share 4. Describe BUSINESS's position in the market~Outline the marketing and sales strategy: 1. Describe pricing strategy and sales tactics 2. Explain distribution channels and partnerships 3. Detail marketing channels and customer acquisition methods 4. Set measurable marketing goals for TIMEFRAME~Develop an operations plan: 1. Describe the production process or service delivery 2. Outline required facilities, equipment, and technologies 3. Explain quality control measures 4. Identify key suppliers or partners~Create an organization structure: 1. Describe the management team and their roles 2. Outline staffing needs and hiring plans 3. Identify any advisory board members or mentors 4. Explain company culture and values~Develop financial projections for TIMEFRAME: 1. Create a startup costs breakdown 2. Project monthly cash flow for the first year 3. Forecast annual income statements and balance sheets 4. Calculate break-even point and ROI~Conclude with a funding request (if applicable) and implementation timeline. Summarize key milestones and goals for TIMEFRAME.
 ```
 
-### Build SEO Optimized Blog Post in Markdown
-
-```
-TOPIC=[article topic], KEYWORD=[primary keyword], WORDCOUNT=[target word count, minimum 2000], AUDIENCE=[target reader persona]
-
-Use web search to identify the top 10 ranking pages for KEYWORD. Analyze their content structure, headings, and key points covered.~
-Based on the analysis, create a detailed outline with at least 15 headings and subheadings (H1, H2, H3, H4) that comprehensively cover TOPIC. Ensure the outline has a logical flow and addresses key user intents.~
-Research and list 10-15 related long-tail keywords and LSI (Latent Semantic Indexing) terms relevant to TOPIC. Plan to naturally incorporate these throughout the article.~
-Craft an engaging, SEO-optimized title (H1) that includes KEYWORD and appeals to AUDIENCE. Ensure it's under 60 characters for optimal display in search results.~
-Write a compelling introduction (150-200 words) that hooks the reader, introduces TOPIC, and outlines what the article will cover. Naturally include KEYWORD.~
-For each main section (H2) in the outline:
-1. Write 300-500 words of in-depth, informative content.
-2. Include relevant examples, data, or case studies found through web search.
-3. Naturally incorporate 1-2 related long-tail keywords or LSI terms.
-4. Ensure a conversational tone that speaks directly to AUDIENCE.
-5. Add a unique insight or perspective not commonly found in competing articles.~
-Create 2-3 custom images, diagrams, or infographic concepts that visually explain key points in the article. Describe each in detail, including alt text optimized for KEYWORD.~
-Write a "Quick Takeaways" or "Key Points" section that summarizes the main insights of the article in 5-7 bullet points.~
-Develop a conclusion (200-250 words) that summarizes the key points, reinforces the main message, and includes a call-to-action relevant to AUDIENCE.~
-Create 5 unique, relevant FAQs related to TOPIC. Ensure answers are concise yet informative, and naturally include long-tail keywords.~
-Write a custom message asking for reader feedback and encouraging social shares. Include a question to boost engagement.~
-Use web search to identify 3-5 authoritative external sources relevant to TOPIC. Create in-text citations and a "References" section at the end of the article.~
-Review the entire article to ensure optimal keyword density (aim for 1-2% for KEYWORD), proper use of headings, and inclusion of long-tail keywords. Check that the content maintains high perplexity and burstiness while staying on topic.~
-Format the article using Markdown, ensuring all headings (H1, H2, H3, H4) and important points are properly styled. Bold key phrases and use italics for emphasis where appropriate.~
-Compile the full article, including the title, introduction, main body with all sections, images, conclusion, FAQs, engagement message, and references. Ensure it meets or exceeds WORDCOUNT while maintaining high-quality, engaging content throughout.
-```
-
-
-### Build a course for any subject
-
-```
-Define the course parameters: SUBJECT=[subject name], AUDIENCE=[target audience], DURATION=[course length in weeks], FREQUENCY=[number of lessons], TIME=[duration of each lesson]~Create a course outline with main modules, each focusing on a key aspect of the subject~For each module, list 3-5 specific learning objectives that align with the overall course goals~Develop a detailed syllabus including module titles, topics covered, time allocation, estimated time for completion, and required materials~Create an introduction module that explains the course structure, expectations, and provides an overview of the subject~For Module 1, design a lesson plan with lecture content, practical exercises, and multimedia resources~Develop assessment methods for Module 1, including quizzes, assignments, or projects that test the module's learning objectives~Repeat the lesson plan and assessment development process for the next half of the modules~Create interactive elements for each module, such as discussion prompts, group activities, or hands-on projects~Design a mid-course project or assignment that integrates concepts from the first half of the course~Develop lesson plans and assessments for the remaining modules, incorporating more advanced concepts and building on earlier modules~Create a final project or exam that comprehensively assesses the entire course content~Develop a resource list including textbooks, online materials, and supplementary reading for each module~Create a glossary of key terms and concepts covered throughout the course~Design a feedback mechanism for students to evaluate the course and suggest improvements~Develop a guide for instructors, including teaching tips, common student challenges, and suggested solutions~Create a course completion certificate template and criteria for earning the certificate
-```
-
-### Revise and Refine Resume / CV
-
-```
-Analyze the following resume details: INDUSTRY=[target industry], EXPERIENCE_LEVEL=[entry/mid/senior], JOB_TITLE=[desired position]~Review the current RESUME=[] and identify 5 key strengths and 3 areas for improvement~Optimize the resume summary/objective statement to align with the target job and industry (max 3 sentences)~Revise the work experience section: enhance 3 key accomplishments for each role using the STAR method and quantifiable results~Identify and list 5-7 relevant hard skills and 3-5 soft skills that align with the target job requirements~Restructure the skills section to highlight the most impactful and relevant skills~Review and optimize the education section, including relevant coursework, projects, or academic achievements~Create a tailored section highlighting 3-4 key projects or notable achievements relevant to the target job~Identify and incorporate 5-7 industry-specific keywords or phrases throughout the resume~Revise the resume format for improved readability: suggest appropriate fonts, spacing, and section organization~Proofread the entire resume and correct any grammatical or formatting inconsistencies~Generate 3 impactful action verbs to replace weak or overused verbs in the experience section~Create a concise list of 3-5 relevant certifications or professional development activities to add, if applicable~Suggest 2-3 optional sections that could enhance the resume (e.g., volunteer work, publications, languages)~Develop a strategy to address any potential red flags (e.g., employment gaps, career changes) in the resume~Provide a final checklist of 5 key elements to review before submitting the revised resume
-```
-
 ### Enrich these Leads for my CRM
 
 ```
@@ -360,66 +320,6 @@ Let’s begin this enriching journey. Start by examining the first email address
 
 ```
 
-
-### Building Personal Finance Documents
-
-```
-Create a monthly budget template with categories for income, fixed expenses, variable expenses, and savings. Include formulas for calculating totals and percentages~Develop a yearly financial goals worksheet with sections for short-term, medium-term, and long-term goals. Include columns for goal description, target amount, deadline, and action steps~Generate a net worth statement template with sections for assets (e.g., cash, investments, property) and liabilities (e.g., loans, credit card debt). Include formulas for calculating total net worth~Design a debt repayment plan spreadsheet with columns for creditor name, balance, interest rate, minimum payment, and projected payoff date. Include a debt snowball/avalanche calculation~Create an emergency fund planning document that calculates target fund size based on monthly expenses and provides a savings timeline~Develop an investment portfolio allocation spreadsheet with sections for different asset classes (e.g., stocks, bonds, real estate) and risk tolerance levels~Generate a retirement savings calculator that estimates required savings based on current age, desired retirement age, and expected expenses~Create a cash flow statement template with sections for operating activities, investing activities, and financing activities~Design a tax preparation checklist customized for individual tax situations, including needed documents and common deductions~Develop a personal financial ratios worksheet calculating key metrics like savings rate, debt-to-income ratio, and investment returns~Create an insurance coverage summary template listing all policies, coverage amounts, premiums, and renewal dates~Generate a bill payment tracker with recurring expenses, due dates, and payment confirmation fields~Design a charitable giving plan template with sections for donation goals, tax implications, and impact tracking~Create a financial document organization guide with categories for storing and managing important financial papers~Develop a personal finance dashboard template summarizing key financial metrics, goals progress, and action items
-```
-
-### Build a detailed workout and nutrition plan
-
-```
-Analyze the following information: Current body weight [weight in kg/lbs], Height [height in cm/inches], Age [age in years], Gender [male/female/other], and Fitness goal [e.g., weight loss, muscle gain, general fitness]~Calculate the individual's BMI and determine their ideal weight range based on height~Estimate the individual's daily caloric needs based on their stats and activity level~Create a macronutrient breakdown (protein, carbs, fats) tailored to their fitness goal~Develop a 7-day meal plan with specific meals and portion sizes that meet the calculated macronutrient needs~Generate a grocery list based on the meal plan, categorized by food groups~Design a 4-week workout plan with 4-5 sessions per week, tailored to the individual's fitness goal~For Week 1, provide detailed descriptions of each workout, including exercises, sets, reps, and rest periods~For Weeks 2-4, outline any progressions or changes in the workout routine to ensure continued progress~Suggest 3-5 supplement recommendations, if appropriate, based on the individual's goal~Create a list of 5-7 tips for staying motivated and adhering to the workout and nutrition plan~Develop a progress tracking system, including metrics to monitor and frequency of measurements~Generate a sample workout log template for the individual to record their exercises and progress~Provide guidelines for adjusting the plan based on progress or plateaus after the 4-week period
-```
-
-
-
-
-
-### Build Marketing plan using Diffusion of innovations Theory
-
-```
-Based on the Diffusion of innovations theory, I want you to help me build a marketing plan for each step for marketing my product, My product [Its called ChatGPT Queue it saves people time by allowing them to queue messages for ChatGPT, I have a one time fee, its a chrome extension]. Start by generating the Table of contents for my marketing plan with only the following sections
-
-Here are what the only 5 sections of the outline should look like,
-Innovators
-Early Adopters
-Early Majority
-Late Majority
-Laggards
-
-
-Use your search capabilities to enrich each section of the marketing plan.
-
-~
-
-Write Section 1
-
-~
-
-Write Section 2
-
-~
-
-
-Write Section 3
-
-~
-
-
-Write Section 4
-
-~
-
-Write Section 5
-
-
-```
-
-
-
-
 ### Optimize and Refine a Custom Prompt
 
 ```
@@ -438,22 +338,10 @@ Analyze the following YouTube video transcript: [insert transcript]~Identify key
 Create a table of contents for a business plan for [type of business]~Write the executive summary~Develop the company description and market analysis~Detail the product or service offering~Outline the marketing and sales strategy~Generate financial projections~Formulate the funding request~Compile all sections into a complete business plan
 ```
 
-### Generate a Children's Story
-
-```
-Use the following parameters to create a children's story: Characters: [list characters], Lesson: [specify lesson], Age range: [specify age range], Word count: [specify word count]~Create a story outline~Write the full story~Revise for age-appropriateness and word count~Suggest potential illustrations or interactive elements
-```
-
 ### Optimize and Explain Code
 
 ```
 Analyze the following code snippet: [insert code]~Explain the code functionality line by line~Identify bugs and inefficiencies~Suggest optimizations for performance and readability~Provide an optimized version with explanatory comments
-```
-
-### Create a Weekly Meal Plan
-
-```
-Generate a 7-day meal plan for the following dietary preferences: [list preferences]~Create a comprehensive shopping list~Calculate estimated total cost~Provide meal prep instructions~Suggest time-saving cooking tips
 ```
 
 ### Design a Language Learning Plan
@@ -474,22 +362,10 @@ Analyze the following technical problem: [describe problem]~Identify potential c
 Analyze the book "[Title]" by [Author]~Summarize the book's plot or main arguments~Identify key themes and concepts~Analyze character development or main ideas~Discuss the author's writing style and tone~Explore historical or cultural context~Suggest similar books or further reading
 ```
 
-### Create a Personal Finance Plan
-
-```
-Create a personal finance plan using the following information: Monthly income: [amount], Major expenses: [list expenses], Financial goals: [list goals]~Develop a detailed monthly budget~Provide investment recommendations based on a [low/medium/high] risk tolerance~Suggest methods to increase income~Create a debt repayment strategy if applicable
-```
-
 ### Conduct a SWOT Analysis
 
 ```
 Identify the key strengths of [company/product]~List potential weaknesses or areas for improvement~Explore market opportunities for growth~Analyze potential threats or challenges~Summarize findings and suggest strategic actions
-```
-
-### Create a Marketing Plan
-
-```
-Define target audience and market segmentation for [product/service]~Set specific, measurable marketing objectives~Outline marketing strategies and tactics~Create a marketing budget~Develop a timeline for implementation~Establish KPIs for measuring success
 ```
 
 ### Perform Competitor Analysis
@@ -522,34 +398,10 @@ Identify key skills and knowledge areas for [job role/department]~Develop learni
 Analyze current customer churn rate and reasons~Identify key factors influencing customer loyalty~Develop strategies to improve customer satisfaction~Create a loyalty program outline~Design a communication plan for customer engagement~Suggest metrics to measure retention efforts
 ```
 
-### Create a Financial Forecast
-
-```
-Project revenue for the next 12 months for [business/product line]~Estimate costs and expenses~Calculate projected profit margins~Develop cash flow projections~Identify potential financial risks~Suggest strategies for financial growth and stability
-```
-
 ### Design a Product Launch Plan
 
 ```
 Outline the unique value proposition of [new product]~Develop a pre-launch marketing strategy~Create a timeline for the launch process~Design a pricing strategy~Plan the actual launch event or campaign~Develop a post-launch evaluation process
-```
-
-### Optimize Supply Chain Management
-
-```
-Map the current supply chain for [product/service]~Identify inefficiencies and bottlenecks~Suggest improvements for cost reduction~Recommend strategies for better inventory management~Propose methods to enhance supplier relationships~Outline implementation steps for supply chain optimization
-```
-
-### Develop a Crisis Communication Plan
-
-```
-Identify potential crisis scenarios for [company/industry]~Create a crisis management team structure~Develop key messaging templates~Outline communication channels and protocols~Create a step-by-step response process~Design a post-crisis evaluation and recovery plan
-```
-
-### Create a Sustainability Strategy
-
-```
-Assess current environmental impact of [company/industry]~Set sustainability goals and objectives~Develop strategies for reducing carbon footprint~Create initiatives for waste reduction and resource conservation~Design an employee engagement plan for sustainability~Outline reporting and communication strategies for sustainability efforts
 ```
 
 ### Develop a Digital Transformation Strategy
@@ -558,54 +410,8 @@ Assess current environmental impact of [company/industry]~Set sustainability goa
 Assess current digital capabilities of [company]~Identify areas for digital innovation and improvement~Outline required technological investments~Develop a plan for data management and analytics~Create a timeline for implementation~Design change management strategies for digital adoption
 ```
 
-### Create an Intellectual Property Strategy
-
-```
-Identify key intellectual property assets of [company]~Outline processes for protecting new innovations~Develop strategies for patent filing and management~Create guidelines for trade secret protection~Design a plan for trademark and copyright management~Suggest methods for IP valuation and commercialization
-```
-
-### Develop an Employee Engagement Program
-
-```
-Assess current employee satisfaction levels~Identify key drivers of employee engagement~Design recognition and reward systems~Develop strategies for improving work-life balance~Create a plan for enhancing internal communication~Outline metrics for measuring engagement success
-```
-
-### Build a Comprehensive Course
-
-```
-Define the main topic and learning objectives for [course subject]~Identify the target audience and their prior knowledge level~Create a course outline with main modules and sub-topics~Develop a detailed syllabus including lesson plans and time allocation~Design engaging learning activities and assignments for each module~Create assessment methods to evaluate student progress and understanding~Outline required resources (textbooks, software, equipment) for the course~Develop a strategy for delivering the course (in-person, online, or hybrid)~Create a marketing plan to promote the course to potential students~Design a feedback mechanism for continuous course improvement
-```
 ### Generate a series of logos for SaaS product
 
 ```
 Analyze the following SaaS product and create a brief: ChatGPT Queue. Include key features, benefits, target audience, and industry~Based on the brief, list 5 key concepts or themes that should be represented in the logo~Generate a minimalist logo design for the SaaS product. Use only two colors and focus on a simple, memorable shape~Create a bold and modern logo design using gradients and a sans-serif font. Incorporate an abstract representation of the product's main feature~Design a playful logo with a mascot or character that represents the product's personality. Use a vibrant color palette~Develop a tech-focused logo design with a futuristic feel. Incorporate circuit-like patterns or digital elements~Create an elegant and professional logo design using a monogram or lettermark. Stick to a monochromatic color scheme~Generate a versatile logo that works well in both horizontal and vertical layouts. Focus on scalability and readability at different sizes
 ```
-
-
-
-## Contributing
-
-To contribute your own prompt chains, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/new-prompt-chain`)
-3. Add your prompt chain to the appropriate section
-4. Commit your changes (`git commit -am 'Add new prompt chain'`)
-5. Push to the branch (`git push origin feature/new-prompt-chain`)
-6. Create a new Pull Request
-
-## Contact
-
-For support, feature requests, or any questions, please visit our Chrome Web Store page:
-
-[ChatGPTQueue Chrome Extension](https://chromewebstore.google.com/detail/chatgpt-queue/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0)
-
-## Leave a Review
-
-If you find ChatGPTQueuePrompts helpful, please consider leaving a review on our Chrome Web Store page. Your feedback helps us improve and reach more users!
-
-[Leave a Review](https://chromewebstore.google.com/detail/chatgpt-queue/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0)
-
----
-
-Feel free to star ⭐ this repository if you find it helpful!
