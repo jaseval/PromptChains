@@ -1,7 +1,3 @@
-# ChatGPT Queue Prompts - used for bulk prompting in [ChatGPT Queue](https://chromewebstore.google.com/detail/chatgpt-queue/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0)
-
-ChatGPT Queue Prompts is a collection of prompt chains designed to enhance interactions with large language models (LLMs) like ChatGPT with the use of ChatGPT Queue. These prompt chains help build context for the AI before performing specific tasks. [Which improves performance](https://arxiv.org/pdf/2110.08387)
-
 ## What are Prompt Chains?
 
 Prompt chains are sequences of prompts for LLMs that help build context for the AI before having it perform a task. In this project, prompt chains are represented as strings with individual prompts separated by tildes (`~`). They should be copy and pastable into ChatGPT Queue bulk prompting and Job or Task focused.
@@ -25,32 +21,6 @@ This prompt chain helps research publicly traded companies benefiting from the r
 Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. Keep the information brief and all within the inline table. Example: | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | |--------------|--------------|------------------------------------------|------------------|----------------------------------------| | Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | | Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | Please provide the latest information available. ~More ~ More ~ More
 ```
 
-
-How to make a million dollars with your skill set
-
-```
-[Skill Set] = A brief description of your primary skills and expertise [Time Frame] = The desired time frame to achieve one million dollars [Available Resources] = Resources currently available to you [Interests] = Personal interests that could be leveraged ~ Step 1: Based on the following skills: {Skill Set}, identify the top three skills that have the highest market demand and can be monetized effectively. ~ Step 2: For each of the top three skills identified, list potential monetization strategies that could help generate significant income within {Time Frame}. Use numbered lists for clarity. ~ Step 3: Given your available resources: {Available Resources}, determine how they can be utilized to support the monetization strategies listed. Provide specific examples. ~ Step 4: Consider your personal interests: {Interests}. Suggest ways to integrate these interests with the monetization strategies to enhance motivation and sustainability. ~ Step 5: Create a step-by-step action plan outlining the key tasks needed to implement the selected monetization strategies. Organize the plan in a timeline to achieve the goal within {Time Frame}. ~ Step 6: Identify potential challenges and obstacles that might arise during the implementation of the action plan. Provide suggestions on how to overcome them. ~ Step 7: Review the action plan and refine it to ensure it's realistic, achievable, and aligned with your skills and resources. Make adjustments where necessary.
-```
-
-Generate a series of positive affirmations tailored to you. Prompt Included. 
-
-```
-{USER_NAME}=User’s name
-{USER_TRAITS}=List of specific positive traits or qualities about the user
-{USER_GOALS}=User’s primary goals or aspirations
-
-Based on the user information, summarize key traits and goals.
-Given the following details about [USER_NAME]—positive traits: [USER_TRAITS]; primary goals: [USER_GOALS]—please create a brief summary that will set the context for generating affirmations
-
- ~ Build affirmations focusing on boosting self-worth, confidence, and motivation based on the user’s qualities and goals.
-"Using this context: '[SUMMARY_FROM_STEP_1]', generate [AFFIRMATION_COUNT] affirmations that encourage self-belief and positive action. Ensure each affirmation reflects one of the user’s traits or goals and is uplifting and direct."
-
-~ Improve each affirmation by adding emotionally resonant language to make them impactful and easy to internalize.
-"For each affirmation in '[AFFIRMATIONS_FROM_STEP_2]', enhance it with empowering words and make it concise. Ensure it’s in the present tense, so the user feels encouraged in the moment."
-
-~ Review and refine the affirmations to ensure they are motivating and aligned with [USER_NAME]'s personal journey.
-"Review the list of affirmations and make any final adjustments to ensure they sound natural, positive, and directly relevant to [USER_NAME]'s personal growth and goals."
-```
 
 ### Mock Interview to Land your Dream Job
 
@@ -148,50 +118,6 @@ ORIGINAL_CONTENT=[Full text of the content to be translated], SOURCE_LANGUAGE=[L
 ```
 
 
-### - Conduct a psychoanalysis with professional recommendations
-
-```
-NAME=[client name]
-CONCERNS=[primary concerns/symptoms]
-GOALS=[desired outcomes]
-CONSTRAINTS=[time/resource limitations]
-Acting as an experienced psychological analyst, conduct a thorough initial assessment for NAME who presents with CONCERNS and wishes to achieve GOALS, while considering CONSTRAINTS. Focus on understanding their current situation, behavioral patterns, and emotional state.~
-Based on the initial assessment, identify and analyze the following key areas:
-1. Current coping mechanisms
-2. Support systems
-3. Stress triggers
-4. Behavioral patterns
-5. Emotional regulation
-Provide specific examples and observations for each area.~
-Generate a detailed analysis of underlying factors that may be contributing to the current situation. Consider:
-1. Historical patterns
-2. Environmental influences
-3. Relationship dynamics
-4. Personal beliefs and values
-5. Life transitions~
-Based on the analysis, identify three primary areas for therapeutic focus and personal development. For each area, provide:
-1. Current impact
-2. Development opportunities
-3. Potential challenges~
-Create a comprehensive program recommendation that includes:
-1. Specific therapeutic approaches
-2. Practical exercises and tools
-3. Progress monitoring methods
-4. Timeline for implementation
-5. Expected outcomes
-Format as a structured action plan with clear steps and milestones.~
-Develop three alternative program options varying in:
-1. Intensity (light/moderate/intensive)
-2. Time commitment
-3. Resource requirements
-4. Approach (cognitive/behavioral/holistic)
-Present each option with pros and cons.~
-Conclude with a summary that includes:
-1. Key insights from the analysis
-2. Recommended primary program choice
-3. Success metrics
-4. Follow-up recommendations
-```
 
 ## Turn a blog post into various social media content
 
@@ -205,11 +131,6 @@ BLOG_CONTENT=[Full text of the blog post], BRAND=[Brand name], PLATFORMS=[List o
 TOPIC=[white paper topic], INDUSTRY=[target industry], AUDIENCE=[primary reader demographic], LENGTH=[target page count] Use web search to identify 5-7 key challenges or pain points in INDUSTRY related to TOPIC. Summarize each in 1-2 sentences.~Research and list 3-5 current trends or innovations in INDUSTRY that are relevant to TOPIC. Include statistics or data points to support each trend.~Develop a compelling title for the white paper that incorporates TOPIC and appeals to AUDIENCE. Create 3 options and briefly explain the rationale for each.~Craft an executive summary (250-300 words) that outlines the white paper's main points, key findings, and value proposition for AUDIENCE.~Create a detailed outline for the white paper, including: 1. Introduction 2. Background/Context 3. 4-6 main sections addressing key challenges and solutions 4. Case study or real-world example 5. Future outlook 6. Conclusion and recommendations Provide a brief description of the content for each section.~Write the introduction (500-750 words): 1. Hook the reader with a compelling statistic or scenario 2. Provide context for TOPIC in INDUSTRY 3. Clearly state the white paper's purpose and what AUDIENCE will gain 4. Include a brief overview of the main sections~For each main section: 1. Start with a clear subheading 2. Present the challenge or issue 3. Provide in-depth analysis, including data and expert insights 4. Offer potential solutions or best practices 5. Include relevant graphics, charts, or diagrams to illustrate key points Aim for 1000-1500 words per main section.~Develop a case study or real-world example (500-750 words) that illustrates successful implementation of the ideas presented. Include specific outcomes and lessons learned.~Write a future outlook section (500-750 words) that predicts upcoming trends, potential challenges, and opportunities related to TOPIC in INDUSTRY.~Craft a conclusion (500-750 words) that: 1. Summarizes key points 2. Reinforces the importance of addressing TOPIC 3. Provides clear, actionable recommendations for AUDIENCE~Create a visually appealing infographic that summarizes the white paper's main points, key statistics, and recommendations.~Develop a reference list of at least 15 authoritative sources used in the white paper. Ensure proper citation throughout the document.~Write an author bio (100-150 words) that establishes credibility and expertise on TOPIC.~Design a visually appealing cover page and table of contents for the white paper.~Review and edit the entire document for clarity, coherence, and consistency. Ensure it meets LENGTH requirements while maintaining high-quality, substantive content throughout.~Create a one-page summary sheet of the white paper, highlighting key takeaways and enticing AUDIENCE to read the full document.
 ```
 
-### Generate a content calendar 
-
-```
-BRAND=[Brand name], AUDIENCE=[Target audience], DURATION=[Schedule duration in months], PLATFORMS=[List of marketing platforms] Create a comprehensive content schedule for BRAND, targeting AUDIENCE, for a period of DURATION months across PLATFORMS. Begin with an overview of the brand's marketing goals and target audience demographics.~Develop a content strategy outline, including key themes, content types, and frequency of posts for each platform.~Create a monthly breakdown of content themes, aligning with any seasonal trends, industry events, or brand milestones.~Generate a weekly content calendar for the first month, detailing specific post ideas, content types, and optimal posting times for each platform.~Develop a system for categorizing and tagging content (e.g., educational, promotional, user-generated) to ensure a balanced mix.~Outline a process for content creation, including ideation, production, approval, and scheduling workflows.~Suggest a method for tracking content performance and KPIs for each platform.~Propose a strategy for repurposing and cross-promoting content across different platforms.~Create guidelines for maintaining brand voice and visual consistency across all content.~Develop a contingency plan for timely response to trending topics or unforeseen events.~Outline a quarterly review process to assess the content schedule's effectiveness and make data-driven adjustments.~Provide a final summary of the complete content schedule, including key strategies, themes, and expected outcomes.
-```
 
 ### Build a How To Guide for any subject
 
@@ -228,15 +149,6 @@ If applicable, suggest tools or resources that can help with this step.~ Identif
 TOPIC=[Topic of presentation], AUDIENCE=[Target audience], DURATION=[Presentation duration in minutes] Create a comprehensive slide deck outline for a presentation on TOPIC, tailored for AUDIENCE, with a duration of DURATION minutes. Include a title slide and a table of contents.~Expand on the table of contents, providing a detailed outline for each section. Include key points, potential visuals, and any data or statistics to be featured.~Write the content for the title slide and introduction slides. Ensure the introduction captures attention and clearly states the presentation's purpose.~Develop the content for the main body slides, focusing on one section at a time. Include clear headings, concise bullet points, and notes for visual elements.~Create transition slides between main sections to maintain flow and coherence throughout the presentation.~Design a strong conclusion that summarizes key points and includes a call to action if appropriate.~Develop any additional slides such as Q&A, references, or contact information.~Review the entire slide deck for consistency, flow, and adherence to best practices in presentation design. Suggest any improvements or additional visual elements that could enhance the presentation.~Provide a final outline of the complete slide deck, including slide numbers and brief descriptions of each slide's content.
 ```
 
-
-
-### Create a comprehensive Newsletter on any topic
-
-```
-TOPIC=[newsletter topic], AUDIENCE=[target audience], FREQUENCY=[daily/weekly/monthly] 
-
-Use web search to find the top 5 most recent news stories or developments related to TOPIC. Summarize each in 1-2 sentences.~Based on web search results, identify 3 trending subtopics or themes within TOPIC that are currently generating buzz or controversy.~Use web search to find 3-5 reputable experts or thought leaders in the field of TOPIC. Note their recent contributions or statements.~Create a compelling subject line for the newsletter that incorporates one of the trending subtopics and would appeal to AUDIENCE.~Write an attention-grabbing opening paragraph that introduces the main theme of this issue, relating it to the interests of AUDIENCE.~Develop the main body of the newsletter: 1. Expand on the top news story, providing context and potential impact. 2. Briefly cover 2-3 other significant stories or developments. 3. Include a quote or insight from one of the identified experts. 4. Add a "Did You Know?" section with an interesting fact found through web search.~Use web search to find a relevant statistic or data point related to TOPIC. Create a brief data visualization or infographic concept to illustrate this information.~Based on web search findings, write a "Looking Ahead" section that predicts or speculates on upcoming trends or events in TOPIC.~Create a "Resource Corner" by using web search to find and briefly describe 3 useful resources (articles, tools, websites) related to TOPIC for AUDIENCE.~Develop a call-to-action relevant to TOPIC and AUDIENCE (e.g., attending an event, trying a new technique, participating in a challenge).~Write a brief, engaging conclusion that summarizes the key points and maintains reader interest for the next issue.~Use web search to find appropriate tags or categories for the newsletter content to improve searchability and SEO.~Compile all sections into a cohesive newsletter format. Ensure the tone and complexity are appropriate for AUDIENCE and FREQUENCY.
-```
 
 ### Turn meeting transcripts into valuable insights from an audience
 
